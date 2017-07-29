@@ -20,7 +20,7 @@
        <?php include("html/head.html"); ?>
     </div>
 
- <!--End of Header-->
+ <!--End of Header test 2-->
 
 
     <!--div class="navbar navbar-inverse">
